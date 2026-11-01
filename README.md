@@ -1,5 +1,9 @@
 # FrameCut for iPad
 
+[![GitHub stars](https://img.shields.io/github/stars/Hari-Aditya-003/FrameCut-iPad?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Hari-Aditya-003/FrameCut-iPad?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/forks)
+[![Default branch](https://img.shields.io/badge/branch-main-2563eb?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/branches)
+
 FrameCut is an iPad-first video and audio player with an integrated precision trimmer. It is written in Swift and SwiftUI, uses AVFoundation for native playback and export, and is designed for the 8th-generation iPad and newer.
 
 ![FrameCut running on iPad](Docs/framecut-ipad.png)
@@ -318,3 +322,11 @@ For public distribution, complete the App Store Connect listing, privacy informa
 - More export presets and frame-accurate re-encoding.
 - Multi-clip editing queue.
 
+
+## Documentation and contributions
+
+- [Deployment and operation](docs/DEPLOYMENT.md)
+- [Contributing](CONTRIBUTING.md): setup, checks, issue reports, and pull requests
+- [Branches](https://github.com/Hari-Aditya-003/FrameCut-iPad/branches): `main` is the default branch; use a focused branch for each change.
+
+If this project helps you, consider starring it. Fork it to propose improvements, then open a pull request against `main`. The stars and forks badges above update from GitHub; they are not fixed counts.

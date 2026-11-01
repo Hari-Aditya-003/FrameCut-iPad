@@ -19,5 +19,5 @@ Verified on September 28, 2026 with Xcode 27.0.
 
 ## Device-signing step still required
 
-Xcode must sign the app with the owner's Apple ID/Developer Team before installing it on a physical iPad. This cannot be preconfigured safely in a shared project. Follow `README.md` under **Open and run in Xcode**.
+Xcode must sign the app with the owner's Apple ID/Developer Team before installing it on a physical iPad. This cannot be preconfigured safely in a shared project. Follow [Install on a physical iPad](README.md#install-on-a-physical-ipad) and the [distribution guide](docs/DEPLOYMENT.md).
 
