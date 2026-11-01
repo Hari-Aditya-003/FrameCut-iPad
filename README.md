@@ -325,7 +325,7 @@ For public distribution, complete the App Store Connect listing, privacy informa
 
 ## Documentation and contributions
 
-- [Deployment and operation](docs/DEPLOYMENT.md)
+- [Deployment and operation](Docs/DEPLOYMENT.md)
 - [Contributing](CONTRIBUTING.md): setup, checks, issue reports, and pull requests
 - [Branches](https://github.com/Hari-Aditya-003/FrameCut-iPad/branches): `main` is the default branch; use a focused branch for each change.
 

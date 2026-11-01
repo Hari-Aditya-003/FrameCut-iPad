@@ -22,7 +22,7 @@ Use descriptive branch names such as `docs/setup-guide`, `fix/import-error`, or 
 
 ## Setup and checks
 
-Open `FrameCut.xcodeproj`, use the shared `FrameCut` scheme, and run Product > Test. For command-line checks and signing/distribution, see [deployment](docs/DEPLOYMENT.md).
+Open `FrameCut.xcodeproj`, use the shared `FrameCut` scheme, and run Product > Test. For command-line checks and signing/distribution, see [deployment](Docs/DEPLOYMENT.md).
 
 Report Xcode version, simulator/device, iPadOS version, and test result. UI and export changes should include device checks and screenshots where useful. Keep local signing credentials and provisioning files out of the pull request.
 
