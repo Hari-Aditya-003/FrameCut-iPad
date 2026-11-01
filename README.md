@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Hari-Aditya-003/FrameCut-iPad?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Hari-Aditya-003/FrameCut-iPad?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/forks)
-[![Default branch](https://img.shields.io/badge/branch-main-2563eb?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/branches)
+[![Default branch](https://img.shields.io/badge/branch-main-2563eb?style=flat-square)](https://github.com/Hari-Aditya-003/FrameCut-iPad/tree/main)
 
 FrameCut is an iPad-first video and audio player with an integrated precision trimmer. It is written in Swift and SwiftUI, uses AVFoundation for native playback and export, and is designed for the 8th-generation iPad and newer.
 
